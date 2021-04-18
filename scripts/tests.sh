@@ -1,0 +1,1 @@
+mvn test -Dmaven.repo.local=/mnt/lib

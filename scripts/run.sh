@@ -1,0 +1,1 @@
+java -jar target/a-maze-ingly-retro-puzzle-0.0.1-SNAPSHOT.jar

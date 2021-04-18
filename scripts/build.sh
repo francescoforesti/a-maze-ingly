@@ -1,0 +1,1 @@
+mvn verify -DskipTests -Dmaven.repo.local=/mnt/lib
